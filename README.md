@@ -45,6 +45,7 @@ You can then execute your native executable with: `./target/logging-castle-manag
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/maven-tooling.html.
 
+
 ## Provided Code
 
 ### RESTEasy JAX-RS
